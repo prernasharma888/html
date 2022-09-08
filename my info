@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+   <head>
+          <meta charset= 'utf-8'>
+         <tittle> MY INFORMATION </tittle>
+
+   </head>
+   <body>
+        <h1> My Info </h1
+        <p> My name is Prerna Sharma <br> I am Avallable for hire.<br> My hour old price was $10 and the new price is $30.<br> Visit my websitefromthe link <a href="https://www.overleaf.com/"> click here </a> </p>
+       
+        <h2> Here is some of my client </h2>
+       
+       <span>  
+             <img src="prerna.jpg" height="200px" width="400px" </span>
+        <span> <img src="p2.jpg" height="200px" width="400px"></span>
+<span> <img src="p3.jpg" height="200px"width="400px"></span>
+    
+    <h2> My Skills </h2>
+   <ul> 
+<li>HTML</LI>
+<li> CSS </li>
+<li> JavaScript </li> </ul>
+   <ul type='circle'>
+  <li > Vuejs </li>
+  <li > Reactjs </li>
+  <li >  Angular</li>
+</ul>
+<ol>
+  <li value='4'> V4.0 </LI>
+  <li value='4'> V5.0 </LI>
+  <li value='4'> V6.0 </LI>
+ <li value='4'> V7.0 </LI>
+ <li value='4'> V4.0 </LI> </OL>
+
+<UL TYPE='CIRCLE'>
+<LI> SVELETE</LI>
+<LI>PYTHON</LI>
+</UL>
